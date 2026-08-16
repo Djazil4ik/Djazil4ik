@@ -18,22 +18,34 @@ I specialize in building scalable web platforms, REST APIs, and telemetry proces
 
 ### 🧰 Tech Stack
 
-**Languages & Frameworks:**  
-`Python` `Django` `Django REST Framework` `JavaScript` `React` `HTML5/CSS3`
+**Backend & Databases:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Databases & Spatial:**  
-`PostgreSQL` `PostGIS` `TimescaleDB` `Redis`
+**Frontend:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**DevOps & Tools:**  
-`Docker` `Nginx` `Gunicorn` `Linux / Bash` `Git` `WSL2`
+**Infrastructure & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![WSL2](https://img.shields.io/badge/WSL2-1793D1?style=flat-square&logo=windows-terminal&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Djazil4ik&show_icons=true&theme=tokyonight" alt="Djazil's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djazil4ik&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Djazil4ik&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Djazil4ik&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
