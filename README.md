@@ -6,17 +6,17 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Djazil4ik/Djazil4ik/output/github-snake.svg">
 </picture>
 
-### 🛠️ Full-Stack & Infrastructure Developer
+### Full-Stack & Infrastructure Developer
 
 I specialize in building scalable web platforms, REST APIs, and telemetry processing architectures.
 
-- 🔭 **Focus:** Python / Django ecosystem, PostgreSQL & Time-series databases, Docker & Nginx infrastructure.
-- ⚡ **Currently learning:** Advanced React & Front-end architecture.
-- 💬 **Ask me about:** Django/DRF, Dockerization, Linux server deployment, and IoT data processing.
+**Focus:** Python / Django ecosystem, PostgreSQL & Time-series databases, Docker & Nginx infrastructure.
+**Currently learning:** Advanced React & Front-end architecture.
+**Ask me about:** Django/DRF, Dockerization, Linux server deployment, and IoT data processing.
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Backend & Databases:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -41,7 +41,7 @@ I specialize in building scalable web platforms, REST APIs, and telemetry proces
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Djazil4ik&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
@@ -50,6 +50,6 @@ I specialize in building scalable web platforms, REST APIs, and telemetry proces
 
 ---
 
-📫 **Connect with me:**  
+**Connect with me:**  
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Djazil4ik)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafaevdjaz)
